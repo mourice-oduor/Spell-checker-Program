@@ -12,6 +12,9 @@ This is how the program in version-1 works:
 This program uses file handling method to open, read and write or correct contents of the txt file. 
 
 # B) Spell-cheker Version_2:
-This Script reads a dictionary file as a parameter and determines all the words from a text file that are not included in the dictionary file.
 
-The program uses functions, loops, conditions, variables, lists, strings, and file input.
+
+# C) Spell-cheker Version_2:
+    This Script reads a dictionary file as a parameter and determines all the words from a text file that are not included in the dictionary file.
+
+    The program uses functions, loops, conditions, variables, lists, strings, and file input.
