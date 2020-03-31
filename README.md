@@ -14,7 +14,7 @@ This program uses file handling method to open, read and write or correct conten
 # B) Spell-cheker Version_2:
 
 
-# C) Spell-cheker Version_2:
+# C) Spell-cheker Version_3:
     This Script reads a dictionary file as a parameter and determines all the words from a text file,
      that are not included in the dictionary file.
 
