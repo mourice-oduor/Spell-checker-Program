@@ -15,6 +15,8 @@ This program uses file handling method to open, read and write or correct conten
 
 
 # C) Spell-cheker Version_2:
-    This Script reads a dictionary file as a parameter and determines all the words from a text file that are not included in the dictionary file.
+    This Script reads a dictionary file as a parameter and determines all the words from a text file,
+     that are not included in the dictionary file.
 
     The program uses functions, loops, conditions, variables, lists, strings, and file input.
+    For the textblob to work, it must be run on virtual environment using this version.
